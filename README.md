@@ -10,8 +10,8 @@
 
 ## 🚀 快速访问通道
 
-- **ChatGPT 中文入口**：[chat中文网](https://chat.aibox365.cn)  
-- **ChatGPT 镜像站导航**：[ai镜像站](https://chat.write360.cn)
+- **ChatGPT 中文入口**：[chat中文网](https://chat.aimirror123.com)  
+- **ChatGPT 镜像站导航**：[ai镜像站](https://www.chatgpt-mirrors.com/chatgpt)
 
 ---
 
@@ -32,8 +32,8 @@
 
 | 镜像站点 | 支持模型 | 免费体验 | 注册方式 | 访问稳定性 | 特色亮点 |
 |----------|----------|----------|----------|------------|----------|
-| [chat中文网](https://chat.aibox365.cn) | GPT-4o, GPT-4.1, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持GPT-4o，集成MJ绘图，适合开发、设计与日常使用 |
-| [ai镜像站](https://chat.write360.cn) | GPT-4, GPT-4o, GPT-4.1, GPT-o1, o3, o4, AIPPT, Midjourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | GPT-o1原版体验，支持AI助手、插件扩展及多模态功能 |
+| [aimi中文网](https://chat.aimirror123.com) | GPT-4o, GPT-4.1, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持GPT-4o，集成MJ绘图，适合开发、设计与日常使用 |
+| [ai镜像站](https://www.chatgpt-mirrors.com/chatgpt) | GPT-4, GPT-4o, GPT-4.1, GPT-o1, o3, o4, AIPPT, Midjourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | GPT-o1原版体验，支持AI助手、插件扩展及多模态功能 |
 | [mygpt.bid](https://mygpt.bid/) | GPT-4, GPT-4o, o1, o3 | 注册赠送免费额度 | 邮箱注册 | ⭐⭐⭐⭐ | 界面简洁，响应迅速，适合多模型切换 |
 | [allyfy.chat](https://www.allyfy.chat/) | GPT-4, GPT-o1 | 5次免费体验 | 邮箱注册 | ⭐⭐⭐ | 轻量体验，适合快速试用，含少量广告 |
 
@@ -95,7 +95,7 @@
 ## 📝 ChatGPT 中文版快速入门指南
 
 **四步畅享AI对话**：  
-1. **选择优质站点**：推荐访问 [chat.aibox365.cn](https://chat.aibox365.cn)。  
+1. **选择优质站点**：推荐访问 [aimi](https://chat.aimirror123.com)。  
 2. **注册登录**：使用国内手机号或邮箱快速注册，操作简单。  
 3. **选择模型**：根据需求切换 GPT-4o、Claude、Gemini、Grok 等模型。  
 4. **开始体验**：支持聊天、翻译、写作、编程、数据分析等多种功能。
@@ -116,7 +116,7 @@
 ## ❓ 常见问题解答（FAQ）
 
 ### 如何在国内无需翻墙使用ChatGPT？  
-访问推荐镜像站如 [chat.aibox365.cn](https://chat.aibox365.cn)，无需VPN，注册后即可体验GPT-4o等最新模型，速度快、体验佳。
+访问推荐镜像站如 [aimi](https://chat.aimirror123.com)，无需VPN，注册后即可体验GPT-4o等最新模型，速度快、体验佳。
 
 ### 中文镜像站支持哪些AI模型？  
 包括OpenAI的GPT-4、GPT-4o、o1、o3、o4，以及Claude、Gemini、Grok、DeepSeek等，满足写作、编程、学术研究等多场景需求。
